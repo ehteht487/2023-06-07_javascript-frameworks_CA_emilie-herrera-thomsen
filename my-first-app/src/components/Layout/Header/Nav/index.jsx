@@ -14,7 +14,7 @@ export default function Nav() {
                     <Link to="/contact">Contact</Link>
                 </li>
                 <li>
-                    <Link to="/product/1">Product</Link>
+                    <Link to="/product">Product</Link>
                 </li>
             </ul>
         </nav>
